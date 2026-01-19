@@ -57,14 +57,14 @@ https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="El Salvador", RTV Canal 57 (720p) 
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8 
 
-# #EXTINF:-1 tvg-logo="https://scontent.fsal7-1.fna.fbcdn.net/v/t39.30808-6/219816118_4259239220799375_5987399218596515504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AJ7ysj3YbxEAX8muNk9&_nc_ht=scontent.fsal7-1.fna&oh=00_AfCjcmqWXlRHxcbRmOLKlx7bPiF6mzg0CromOlUXskPlkA&oe=6406180A" group-title="Guatemala", RHEMA TV (GT) 
-# Link anterior https://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1994427278.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rtv.live/wp-content/uploads/2025/02/logo-rhema-tv.png" group-title="Guatemala", RhemaTV (GT)
 https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/chunklist_w1267202545_b4739072.m3u8
 
 #EXTINF:-1 tvg-logo="https://ebenezer.hn/themes/ebenehon/assets/img/ot-img/logo-blanco.png" group-title="Honduras", EbenezerTV (HN)
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1544418091_b3556000.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.ccint.cl/wp-content/uploads/2020/05/logo-ccint-tv.png" group-title="Chile", CCINT (CH)
+https://unlimited1-us.dps.live/nctv/nctv.smil/nctv/livestream1/chunks.m3u8?nimblesessionid=8477690912
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/e03b48ed24ac4b24bbc240b644542340-hd.jpg" group-title="Estados Unidos", CBN ESPAÑOL (US) 
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8 
@@ -93,8 +93,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/07/alientovision1.jpg" group-title="Estados Unidos", Aliento Vision (US) 
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w973892945.m3u8 
 
-# #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Honduras", Ebenezer Honduras TV (1080p) 
-# Link anterior https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8 
-
 #EXTINF:-1 tvg-id="TBNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Estados Unidos", TBN (720p) 
 https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+
+# #EXTINF:-1 tvg-logo="https://scontent.fsal7-1.fna.fbcdn.net/v/t39.30808-6/219816118_4259239220799375_5987399218596515504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AJ7ysj3YbxEAX8muNk9&_nc_ht=scontent.fsal7-1.fna&oh=00_AfCjcmqWXlRHxcbRmOLKlx7bPiF6mzg0CromOlUXskPlkA&oe=6406180A" group-title="Guatemala", RHEMA TV (GT) 
+# Link anterior https://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1994427278.m3u8
+
+# #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Honduras", Ebenezer Honduras TV (1080p) 
+# Link anterior https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8 
