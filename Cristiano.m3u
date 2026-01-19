@@ -60,5 +60,5 @@ https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p) 
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8 
 
-##EXTINF:-1 tvg-logo="https://www.rtv.live/wp-content/uploads/2025/02/logo-rhema-tv.png" group-title="Rhema"
+##EXTINF:-1 tvg-id="RhemaTV.sv" tvg-logo="https://www.rtv.live/wp-content/uploads/2025/02/logo-rhema-tv.png" group-title="Religious",RhemaTV
 https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/chunklist_w1267202545_b4739072.m3u8
