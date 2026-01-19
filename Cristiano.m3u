@@ -1,24 +1,21 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://www.rtv.live/wp-content/uploads/2025/02/logo-rhema-tv.png" group-title="Religious", RhemaTV (GT)
-https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/chunklist_w1267202545_b4739072.m3u8
-
 #EXTINF:-1 tvg-logo="https://tabernaculo.net/wp-content/uploads/2019/03/Untitled-1.png" group-title="El Salvador", TaberTV (SV) 
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8?DVR 
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News", DW Español (1080p) 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8 
 
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Sports", Tigo Sports TV El Salvador (720p) [Geo-blocked] 
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="El Salvador", Tigo Sports TV El Salvador (720p) [Geo-blocked] 
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/TU-TV-El-Salvador-Canal-11-en-vivo-Online.webp" group-title="El Salvador", Canal 11 (SV) 
 http://magmas5.com:8000/feliurlo/4mhjhCWs01/151809 
 
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Undefined", Canal 2 (480p) [Not 24/7] 
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="El Salvador", Canal 2 (480p) [Not 24/7] 
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/Canal-6-El-Salvador-en-vivo-Online.webp" group-title="El Salvador", Canal 06 (Sv) 
+#EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/Canal-6-El-Salvador-en-vivo-Online.webp" group-title="El Salvador", Canal 06 (SV) 
 http://magmas5.com:8000/feliurlo/4mhjhCWs01/126543 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_vtv_m.png" group-title="El Salvador", VTV CANAL 35 (Sv) 
@@ -27,7 +24,7 @@ http://magmas5.com:8000/feliurlo/4mhjhCWs01/126539
 #EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/Canal-4-El-Salvador-en-vivo-Online.webp" group-title="El Salvador", CANAL 4 (Sv) 
 http://magmas5.com:8000/feliurlo/4mhjhCWs01/126540 
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined", Canal 12 (220p) 
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador", Canal 12 (220p) 
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/canal-19-el-salvador.webp" group-title="El Salvador", Canal 19 (Sv) 
@@ -36,7 +33,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?
 #EXTINF:-1 tvg-logo="https://tvinsur.com/i/sv/sv_canal-21-salvador.webp" group-title="El Salvador", Canal 21 (Sv) 
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8 
 
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious", Enlace (720p) 
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Costa Rica", Enlace (720p) 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://logostv.es/wp-content/themes/videopro/images/logo-logostv.png" group-title="España", LogosTV (Es) 
@@ -45,20 +42,59 @@ https://streamer1.streamhost.org/salive/logosH/chunklist_w636565883.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UYAMhUbSUR0/Wq6pzm_WZ5I/AAAAAAAAc6A/ZcBB1TCfcZQ6wA5cfgleHNtjyyPtUkleACLcBGAs/s200/Uncion24.jpg" group-title="Estados Unidos", Uncion24 (Us) 
 http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids", Disney Channel Latin America (480p) 
-http://168.181.122.234:8000/play/a038/index.m3u8 
-
-#EXTINF:-1 tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Music", Frecuencia Musical TV [Not 24/7] 
+#EXTINF:-1 tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Reino Unido", Frecuencia Musical TV [Not 24/7] 
 https://s2.tvdatta.com:3307/hybrid/play.m3u8 
 
-#EXTINF:-1 tvg-id="GSGTV.sv" tvg-logo="https://i.imgur.com/8fZnNu0.png" group-title="Religious", GSG TV (720p) 
+#EXTINF:-1 tvg-id="GSGTV.sv" tvg-logo="https://i.imgur.com/8fZnNu0.png" group-title="El Salvador", GSG TV (720p) 
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5a/bc/d7/5abcd732c3a886ac369216fc37117378.jpg" group-title="Guatemala", ELIM CENTRAL (GT) 
 https://cdnhd.iblups.com/hls/HJEFbClYIb.m3u8 
 
-#EXTINF:-1 tvg-id="JosueTV.sv" tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="Religious", Josué TV (1080p) 
+#EXTINF:-1 tvg-id="JosueTV.sv" tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="El Salvador", Josué TV (1080p) 
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8 
 
-#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General", RTV Canal 57 (720p) 
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="El Salvador", RTV Canal 57 (720p) 
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8 
+
+# #EXTINF:-1 tvg-logo="https://scontent.fsal7-1.fna.fbcdn.net/v/t39.30808-6/219816118_4259239220799375_5987399218596515504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AJ7ysj3YbxEAX8muNk9&_nc_ht=scontent.fsal7-1.fna&oh=00_AfCjcmqWXlRHxcbRmOLKlx7bPiF6mzg0CromOlUXskPlkA&oe=6406180A" group-title="Guatemala", RHEMA TV (GT) 
+# Link anterior https://5e85d90130e77.streamlock.net/6006/6006/chunklist_w1994427278.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtv.live/wp-content/uploads/2025/02/logo-rhema-tv.png" group-title="Guatemala", RhemaTV (GT)
+https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/chunklist_w1267202545_b4739072.m3u8
+
+#EXTINF:-1 tvg-logo="https://ebenezer.hn/themes/ebenehon/assets/img/ot-img/logo-blanco.png" group-title="Honduras", EbenezerTV (HN)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1544418091_b3556000.m3u8
+
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/e03b48ed24ac4b24bbc240b644542340-hd.jpg" group-title="Estados Unidos", CBN ESPAÑOL (US) 
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8c946ae92a720ec528070cc58dcaa5a7.webp", group-title="Puerto Rico", CDM Internacional (PR) 
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h49EcLq.png" group-title="El Salvador", ELIM TV (SV) 
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09 
+
+#EXTINF:-1 tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" group-title="El Salvador", EL CAMINO TV (SV) 
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tbnespaña.es/wp-content/uploads/2017/01/logoWeb.png" group-title="España", TBN ESPAÑA (Es) 
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8 
+
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv" tvg-logo="https://i.imgur.com/ZUCppwi.png" group-title="El Salvador", TV León de Judá (720p) 
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="DaystarTV.us" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="Estados Unidos", Daystar TV (720p) 
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8 
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="El Salvador", WOW TV (576p) [Not 24/7] 
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/07/alientovision1.jpg" group-title="Estados Unidos", Aliento Vision (US) 
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w973892945.m3u8 
+
+# #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Honduras", Ebenezer Honduras TV (1080p) 
+# Link anterior https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="TBNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Estados Unidos", TBN (720p) 
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
